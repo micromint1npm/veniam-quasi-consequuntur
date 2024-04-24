@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@micromint1npm/veniam-quasi-consequuntur",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,34 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/micromint1npm/veniam-quasi-consequuntur.git"
   },
   "dependencies": {
+    "@micromint1npm/a-ab-occaecati": "^1.0.0",
+    "@micromint1npm/aut-fuga-esse": "^1.0.0",
+    "@micromint1npm/corrupti-quis-exercitationem": "^1.0.0",
+    "@micromint1npm/delectus-reiciendis-itaque": "^1.0.0",
+    "@micromint1npm/dignissimos-animi-quaerat": "^1.0.0",
+    "@micromint1npm/doloribus-aliquam-quod": "^1.0.0",
+    "@micromint1npm/dolorum-tempore-consectetur": "^1.0.0",
+    "@micromint1npm/et-illum-vel": "^1.0.0",
+    "@micromint1npm/excepturi-dignissimos-voluptatum": "^1.0.0",
+    "@micromint1npm/exercitationem-nemo-quo": "^1.0.0",
+    "@micromint1npm/ipsam-sunt-cupiditate": "^1.0.0",
+    "@micromint1npm/laboriosam-fugiat-veritatis": "^1.0.0",
+    "@micromint1npm/laborum-architecto-magni": "^1.0.0",
+    "@micromint1npm/laudantium-sint-ab": "^1.0.0",
+    "@micromint1npm/numquam-omnis-tenetur": "^1.0.0",
+    "@micromint1npm/perspiciatis-totam-magnam": "^1.0.0",
+    "@micromint1npm/porro-dicta-cupiditate": "^1.0.0",
+    "@micromint1npm/porro-id-temporibus": "^1.0.0",
+    "@micromint1npm/quibusdam-quisquam-temporibus": "^1.0.0",
+    "@micromint1npm/quos-eum-quos": "^1.0.0",
+    "@micromint1npm/quos-perferendis-vitae": "^1.0.0",
+    "@micromint1npm/repellendus-nam-pariatur": "^1.0.0",
+    "@micromint1npm/sit-neque-tenetur": "^1.0.0",
+    "@micromint1npm/tempore-fugiat-adipisci": "^1.0.0",
+    "@micromint1npm/voluptates-vitae-commodi": "^1.0.0",
+    "@rtyuigh6npm/reprehenderit-sit-nemo-itaque": "^1.0.0"
   }
 }
